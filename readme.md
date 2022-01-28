@@ -747,7 +747,7 @@ void MainWindow::on_pushButton_clicked()
 ![G2](https://user-images.githubusercontent.com/93094605/151558821-35b41ed1-7675-45e0-a942-263e24ef1fcc.gif)
 ![G1](https://user-images.githubusercontent.com/93094605/151559034-84eeef76-2251-4047-a6f2-d48ef0abd4ac.gif)
 
-![CCC](https://user-images.githubusercontent.com/93094605/151559174-c6d4d8ca-a31d-4bad-9df7-91aba7a45ba2.PNG)
+
 
 
    
