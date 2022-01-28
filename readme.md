@@ -396,8 +396,12 @@ int sudoku::Arr::read(int i)
 
 ---
 ![FF](https://user-images.githubusercontent.com/93094605/151558529-9be14501-08cb-4cb3-b20c-78cddaf1ef2d.png)
+
 ![E](https://user-images.githubusercontent.com/93094605/151558546-0daea665-ba19-4ca2-a28c-2f1d08d27993.png)
+
 ![KK](https://user-images.githubusercontent.com/93094605/151558566-f8390254-f762-4c6f-a54e-dc8ec6a3f06b.PNG)
+
+
 ![H](https://user-images.githubusercontent.com/93094605/151558580-dec3dad0-75e1-4ec4-af70-b71e53fb50e9.png)
 
 
@@ -466,7 +470,9 @@ void interface::on_pushButton_2_clicked()
 
 ```
 ![Z](https://user-images.githubusercontent.com/93094605/151558618-10551d69-c710-4bbd-a22c-3b6dd35a8256.png)
+
 ![MM](https://user-images.githubusercontent.com/93094605/151558636-5247836f-7dfc-415c-9b6d-2b0f11a2855c.PNG)
+
 ![H](https://user-images.githubusercontent.com/93094605/151558658-d87715b1-9143-4856-8cde-3709a33e947f.png)
 
 # rules.h
@@ -515,7 +521,9 @@ rules::~rules()
 
 ```
 ![A](https://user-images.githubusercontent.com/93094605/151558701-7f66faf9-171b-4827-8987-bacb6ded92df.png)
+
 ![LL](https://user-images.githubusercontent.com/93094605/151558728-01b7773c-11f1-4909-a16f-665e12df9bd3.PNG)
+
 ![H](https://user-images.githubusercontent.com/93094605/151558759-77a320a3-39e1-4348-84bf-fa248585b70c.png)
 
 
@@ -747,7 +755,9 @@ void MainWindow::on_pushButton_clicked()
 ```
 
 ![F](https://user-images.githubusercontent.com/93094605/151558800-d95a3438-c5cf-4bfa-95da-5bcb06471726.png)
+
 ![G2](https://user-images.githubusercontent.com/93094605/151558821-35b41ed1-7675-45e0-a942-263e24ef1fcc.gif)
+
 ![G1](https://user-images.githubusercontent.com/93094605/151559034-84eeef76-2251-4047-a6f2-d48ef0abd4ac.gif)
 
 
