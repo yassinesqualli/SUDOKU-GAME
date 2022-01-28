@@ -1,7 +1,9 @@
-![](DD.PNG)
- 
+
+ ![DD](https://user-images.githubusercontent.com/93094605/151558027-988db21e-6e95-4181-9149-3c64fba11c0d.png)
+
  *** 
-![](II.PNG)
+
+![II](https://user-images.githubusercontent.com/93094605/151558115-363cd847-bb5f-4a53-b04d-9de669f0ea21.png)
 
  >### The object of the game is to get numbers 1-9 just once in each of the 9 mini squares and in each vertical  column and horizontal row. So for a 9×9 square Sudoku game:
  >
@@ -14,32 +16,39 @@
 
 
 
-![](SSS.PNG)
 
+
+![SSS](https://user-images.githubusercontent.com/93094605/151558146-3c3d0fdf-0cfc-4dfa-90e9-f1e9b88dc035.png)
 
  
 
-![](BB.PNG)
+![BB](https://user-images.githubusercontent.com/93094605/151558182-42a4aba9-76ef-48a9-8ed7-6bb68d76a3dd.png)
 ## Solving Sudoku with some strategic considerations is much easier than you think. In our example we will show you step by step how to do it:
 
-![](1.PNG)
+![1](https://user-images.githubusercontent.com/93094605/151558238-3a86f67b-a086-4d43-960a-3d355025247d.png)
 ## Divide Sudoku first into 3 horizontal and 3 vertical blocks.
 
 
-![](11.PNG)
+![11](https://user-images.githubusercontent.com/93094605/151558266-6f5ac432-7ac4-4ae7-8514-51802ab52c84.png)
+![2](https://user-images.githubusercontent.com/93094605/151558279-99cf15c9-760e-42f4-99cf-9ee8df54ed52.png)
 
-![](2.PNG)
+
+
 ## Search the rows of the individual blocks for recurring numbers. First solutions can often be found this way
 
 
-![](22.PNG)
+![22](https://user-images.githubusercontent.com/93094605/151558304-43fee9fb-3ace-4cf7-b746-099c08912864.png)
+![3](https://user-images.githubusercontent.com/93094605/151558312-bcba6b77-fac6-451b-9c44-34afe14a3c17.png)
 
-![](3.PNG)
+
+
 ## If there is no other solution given, you should examine the intersecting 9-fields.
-![](33.PNG)
+![33](https://user-images.githubusercontent.com/93094605/151558337-48578ad7-d649-473a-96b4-bf9fe097024d.png)
+
 ## Following the same approach used above, there is a further field in which only the number 9 can stand. Using this approach, the entire Sudoku can be solved.
 ***
->![](QQ.PNG)
+>![QQ](https://user-images.githubusercontent.com/93094605/151558461-da53aa90-a0c5-4176-8ab2-35ad628b408a.png)
+
 
 We start by creating the class "M1", the main functionnality of this class represent the heart of our Sudoku-Game where we will find the "for" loops that will create the matrixes and other elements.
 
@@ -383,10 +392,13 @@ int sudoku::Arr::read(int i)
 
 
 ---
-![](FF.PNG)
-![](E.PNG)
-![](KK.PNG)
-![](H.PNG)
+![FF](https://user-images.githubusercontent.com/93094605/151558529-9be14501-08cb-4cb3-b20c-78cddaf1ef2d.png)
+![E](https://user-images.githubusercontent.com/93094605/151558546-0daea665-ba19-4ca2-a28c-2f1d08d27993.png)
+![KK](https://user-images.githubusercontent.com/93094605/151558566-f8390254-f762-4c6f-a54e-dc8ec6a3f06b.PNG)
+![H](https://user-images.githubusercontent.com/93094605/151558580-dec3dad0-75e1-4ec4-af70-b71e53fb50e9.png)
+
+
+
 # interface.h
 ```c++
 #include<mainwindow.h>
@@ -450,9 +462,10 @@ void interface::on_pushButton_2_clicked()
 }
 
 ```
-![](Z.PNG)
-![](MM.PNG)
-![](H.PNG)
+![Z](https://user-images.githubusercontent.com/93094605/151558618-10551d69-c710-4bbd-a22c-3b6dd35a8256.png)
+![MM](https://user-images.githubusercontent.com/93094605/151558636-5247836f-7dfc-415c-9b6d-2b0f11a2855c.PNG)
+![H](https://user-images.githubusercontent.com/93094605/151558658-d87715b1-9143-4856-8cde-3709a33e947f.png)
+
 # rules.h
 ```c++
 #ifndef RULES_H
@@ -498,9 +511,11 @@ rules::~rules()
 }
 
 ```
-![](A.PNG)
-![](LL.PNG)
-![](H.PNG)
+![A](https://user-images.githubusercontent.com/93094605/151558701-7f66faf9-171b-4827-8987-bacb6ded92df.png)
+![LL](https://user-images.githubusercontent.com/93094605/151558728-01b7773c-11f1-4909-a16f-665e12df9bd3.PNG)
+![H](https://user-images.githubusercontent.com/93094605/151558759-77a320a3-39e1-4348-84bf-fa248585b70c.png)
+
+
 # mainwindow.h
 ```c++
 #ifndef MAINWINDOW_H
@@ -727,11 +742,14 @@ void MainWindow::on_pushButton_clicked()
 }
 
 ```
-![](F.PNG)
 
->![](G2.GIF)
-![](G1.GIF)
-![](CCC.PNG)
+![F](https://user-images.githubusercontent.com/93094605/151558800-d95a3438-c5cf-4bfa-95da-5bcb06471726.png)
+![G2](https://user-images.githubusercontent.com/93094605/151558821-35b41ed1-7675-45e0-a942-263e24ef1fcc.gif)
+![G1](https://user-images.githubusercontent.com/93094605/151559034-84eeef76-2251-4047-a6f2-d48ef0abd4ac.gif)
+
+![CCC](https://user-images.githubusercontent.com/93094605/151559174-c6d4d8ca-a31d-4bad-9df7-91aba7a45ba2.PNG)
+
+
    
 >   ## Made by: YASSINE SQUALLI HOUSSAINI
 
